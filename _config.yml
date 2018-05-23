@@ -5,7 +5,7 @@
 
 # Site
 title: Curookie's Infagic Blog
-subtitle:
+subtitle: 쿠루키의 인포직 블로그
 description: MR Developer, Infagic Smith
 author: JJ WON
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "MR Programming, IT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -380,7 +380,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: curookie
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -548,7 +548,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
@@ -559,7 +559,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
