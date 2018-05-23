@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Curookie's Infagic Blog
 subtitle:
-description:
-author: John Doe
+description: MR Developer | Infagic Smith
+author: JJ WON
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
